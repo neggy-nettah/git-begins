@@ -3,3 +3,4 @@ git push --all
 git push --force
 git push --tasks
 git clone https ou ssh
+git pull
